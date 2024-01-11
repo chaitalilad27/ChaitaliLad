@@ -15,7 +15,7 @@ Welcome to my digital space! I'm a passionate iOS Software Engineer based in Can
 ### 👩‍💻 Personal Contribution:
 - **[TasksApp](https://github.com/chaitalilad27/TasksApp)** 
 - **[SSSwiftUISpinnerButton](https://github.com/SimformSolutionsPvtLtd/SSSwiftUISpinnerButton)** 
-- **[ReactNativeJobs](https://github.com/chaitalilad27/ReactNativeJobsApp)** 
+- **[ReactNativeJobsApp](https://github.com/chaitalilad27/ReactNativeJobsApp)** 
 - **[JobBreezeApp](https://github.com/chaitalilad27/JobBreezeApp)** 
 
 ### 📚 Skills
